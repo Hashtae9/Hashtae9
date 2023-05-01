@@ -1,21 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello,+i'm+Hashtae9&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+i'm+Hashtae9&font=Redressed&size=40;)](https://git.io/typing-svg)
 <br>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hashtae9🇰🇷&fontAlign=70)
 <br>
-<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noubel8007)](https://solved.ac/noubel8007/)
+
 <br>
 <br>
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashtae9&layout=compact&hide=javascript,html&theme=tokyonight" height="200"/>
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Hashtae9&count_private=true&theme=tokyonight&show_icons=true" height = "200"/>
 </a>
+
 <br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashtae9&theme=nord_dark" width = "850"/>
+
 <br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hashtae9&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
 
 ## 🌍 Languages
 <br>
