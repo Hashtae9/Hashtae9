@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello,+i'm+Hashtae9&font=Redressed&size=40)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🇰🇷&fontAlign=70)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noubel8007)](https://solved.ac/noubel8007/)
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashtae9&layout=compact&hide=javascript,html&theme=tokyonight" />
 </a>
