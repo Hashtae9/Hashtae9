@@ -9,7 +9,7 @@
 </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hashtae9&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hashtae9&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashtae9&theme=nord_dark)
 <!--
 **Hashtae9/Hashtae9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
