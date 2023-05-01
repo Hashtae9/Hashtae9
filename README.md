@@ -14,7 +14,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hashtae9&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Languages
-<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
+<br>
+<code><img alt = "3.1 Python" height="20" src="https://icons8.kr/icon/2572/%EC%9E%90%EB%B0%94-%EC%BB%A4%ED%94%BC-%EC%BB%B5-%EB%A1%9C%EA%B3%A0"> java</code>
+<code><img alt = "3.1 Python" height="20" src="https://icons8.kr/icon/l75OEUJkPAk4/%ED%8C%8C%EC%9D%B4%EC%8D%AC"> python</code>
 
 
 <!--
