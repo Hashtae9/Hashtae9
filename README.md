@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+i'm+Hashtae9&font=Redressed&size=40;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+i'm+Hashtae9&font=Redressed&size=40&pause=500;)](https://git.io/typing-svg)
 <br>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hashtae9🇰🇷&fontAlign=70)
 <br>
