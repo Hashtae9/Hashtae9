@@ -16,7 +16,7 @@
 Languages
 <br>
 <code><img alt = "3.1 Python" height="20" src="https://icons8.kr/icon/2572/%EC%9E%90%EB%B0%94-%EC%BB%A4%ED%94%BC-%EC%BB%B5-%EB%A1%9C%EA%B3%A0"> java</code>
-<code><img alt = "3.1 Python" height="20" src="https://icons8.kr/icon/l75OEUJkPAk4/%ED%8C%8C%EC%9D%B4%EC%8D%AC"> python</code>
+<code><img alt = "3.1 Python" height="20" src="[https://icons8.kr/icon/l75OEUJkPAk4/%ED%8C%8C%EC%9D%B4%EC%8D%AC](https://icons8.kr/icon/l75OEUJkPAk4/%ED%8C%8C%EC%9D%B4%EC%8D%AC)"> python</code>
 
 
 <!--
