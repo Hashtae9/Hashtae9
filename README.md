@@ -13,6 +13,9 @@
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hashtae9&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
+Languages
+<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
+
 
 <!--
 **Hashtae9/Hashtae9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
