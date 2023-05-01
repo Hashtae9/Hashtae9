@@ -7,14 +7,14 @@
 
 <br>
 <br>
-
+<div>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashtae9&layout=compact&hide=javascript,html&theme=tokyonight" height="200"/>
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Hashtae9&count_private=true&theme=tokyonight&show_icons=true" height = "200"/>
 </a>
-
+</div>
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashtae9&theme=nord_dark" width = "850"/>
