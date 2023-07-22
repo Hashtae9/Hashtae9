@@ -57,6 +57,6 @@
 
 
 ## Certificate
-+ [Coding Specialist Professional 1급 (Python)](<img width="703" alt="스크린샷 2023-07-22 오후 9 14 43" src="https://github.com/Hashtae9/RefrigeatorManager/assets/101400894/40a9f5cd-ae6d-499a-a816-6d3068c43ab6">)
++ Coding Specialist Professional 1급 (Python)
 
 
