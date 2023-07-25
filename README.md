@@ -59,4 +59,9 @@
 ## Certificate
 + Coding Specialist Professional 1급 (Python)
 
+<br>
+
+## Awards
++ 2020 로봇산업 온라인 해커톤(장려상)
++ 경기과학기술대학교 2023 빅데이터 코딩 경진대회(장려상)
 
