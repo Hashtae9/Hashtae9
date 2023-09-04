@@ -5,11 +5,14 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noubel8007)](https://solved.ac/noubel8007/)
 
+
+
 <br>
 <br>
 <div>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashtae9&layout=compact&hide=javascript,html&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashtae9&layout=compact&hide=jupyter%20notebook,html,javascript&theme=tokyonight" height="200"/>
+  
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Hashtae9&count_private=true&theme=tokyonight&show_icons=true" height = "200"/>
