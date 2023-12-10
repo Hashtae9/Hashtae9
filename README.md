@@ -60,7 +60,9 @@
 
 
 ## Certificate
-+ Coding Specialist Professional 1급 (Python)
++ Coding Specialist Professional 1급 (Python) (2023.07.23.)
++ AICE Associate(2023.11.03. ~ 2026.11.18.)
++ SQLD (2023.12.15.)
 
 <br>
 
